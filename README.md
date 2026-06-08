@@ -72,13 +72,6 @@ focus = {
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
- [ <img src="https://github-readme-stats.vercel.app/api?username=srijithit&show_icons=true&theme=default&hide_border=true&title_color=1D9E75&icon_color=1D9E75" height="160"/>
-  &nbsp;](https://github.com/srijithit/sri/blob/main/srixx1.jpg?raw=true)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijithit&layout=compact&theme=default&hide_border=true&title_color=1D9E75" height="160"/>
-</p>
 
 ---
 
