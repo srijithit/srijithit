@@ -63,7 +63,7 @@
 
 ```python
 focus = {
-    "professional": "Enterprise AI @ Johnson & Johnson — RAG, LLMs, data engineering",
+    "professional": "Enterprise AI @ Royaal Tech — RAG, LLMs, data engineering",
     "freelance":    "Full-stack web apps — e-commerce, portfolios, business sites",
     "learning":     ["Power BI", "DevOps", "AR/VR", "Penetration Testing"],
     "goal":         "Build things that matter and keep shipping"
