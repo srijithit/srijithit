@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi there, I'm Srijith!
+💫 Aspiring Developer ||| PYTHON || DEVOPS .NET || AR & VR || HTML and CSS || JAVA || APP DEVELOPMENT || UI & UX || IoT 
+🎓 B.Tech IT | SNS College of  Technology
+📊 Passionate about extracting meaningful insights from data and building analytical solutions.
 
-<!--
-**srijithit/srijithit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+Skilled in Excel, Python, SQL
+Learning Power BI for data visualization
+Interested in Data Analytics
+🛠️ Tech Stack
+   
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *Always learning. Always building. Always improving.*
