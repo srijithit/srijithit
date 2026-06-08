@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-- 🏢 **Software Engineer @ Johnson & Johnson** — building enterprise AI systems (RAG pipelines, LLM document processing, data engineering)
+- 🏢 **Software Engineer @ Royaal Tech** — building enterprise AI systems (RAG pipelines, LLM document processing, data engineering)
 - 🎓 **B.Tech Information Technology** — SNS College of Technology
 - 🌐 Freelance web developer — full-stack sites deployed on [Vercel](https://srijith.vercel.app) / Netlify
 - 📊 Passionate about data analytics — Excel · Python · SQL · Power BI *(learning)*
